@@ -1,2 +1,2 @@
-# Intelligent-Web-Crawler
-AI-powered Intelligent Document Processing (IDP) system for extracting structured data from industrial Modbus register maps and technical documents using AWS, Azure, LLMs, OCR, ETL pipelines, and RAG.
+# Intelligent Web Crawler for Industrial Document Collection
+An AI-assisted intelligent web crawler designed to automatically discover, navigate, and download industrial technical documents from vendor websites. The system combines browser automation, intelligent navigation, scheduling, and structured data extraction to build a scalable document collection pipeline for downstream AI-powered document processing.
